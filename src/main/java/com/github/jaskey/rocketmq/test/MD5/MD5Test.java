@@ -21,6 +21,8 @@ public class MD5Test {
 
         System.out.println("第一次新增");
 
+        System.out.println("第二次新增");
+
     }
 
     protected static List<Map<String, String>> paramJsonToValueListStr(String paramJson) {
