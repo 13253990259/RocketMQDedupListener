@@ -1,7 +1,6 @@
 package com.github.jaskey.rocketmq.test.MD5;
 
 import com.github.jaskey.rocketmq.test.response.JsonUtils;
-import org.apache.commons.lang3.StringUtils;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 
@@ -22,6 +21,8 @@ public class MD5Test {
         System.out.println("第一次新增");
 
         System.out.println("第二次新增");
+
+        System.out.println(123);
 
     }
 
