@@ -37,7 +37,7 @@ public class MD5Test {
                 vars.add(paramMap);
             }
         }
-
+        System.out.println("ahhahahhaha");
         return vars;
     }
 
